@@ -15,6 +15,7 @@
 		144D2DA324516CCF00D57551 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 144D2DA124516CCF00D57551 /* LaunchScreen.storyboard */; };
 		144D2DAE24516CCF00D57551 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144D2DAD24516CCF00D57551 /* SecondKadaiAppTests.swift */; };
 		144D2DB924516CCF00D57551 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144D2DB824516CCF00D57551 /* SecondKadaiAppUITests.swift */; };
+		144D2DC724516DCA00D57551 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144D2DC624516DCA00D57551 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		144D2DB424516CCF00D57551 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		144D2DB824516CCF00D57551 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		144D2DBA24516CCF00D57551 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		144D2DC624516DCA00D57551 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				144D2D9624516CCE00D57551 /* AppDelegate.swift */,
 				144D2D9824516CCE00D57551 /* SceneDelegate.swift */,
 				144D2D9A24516CCE00D57551 /* ViewController.swift */,
+				144D2DC624516DCA00D57551 /* ResultViewController.swift */,
 				144D2D9C24516CCE00D57551 /* Main.storyboard */,
 				144D2D9F24516CCF00D57551 /* Assets.xcassets */,
 				144D2DA124516CCF00D57551 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				144D2D9B24516CCE00D57551 /* ViewController.swift in Sources */,
 				144D2D9724516CCE00D57551 /* AppDelegate.swift in Sources */,
 				144D2D9924516CCE00D57551 /* SceneDelegate.swift in Sources */,
+				144D2DC724516DCA00D57551 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
